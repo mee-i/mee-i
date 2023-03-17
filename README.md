@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mee-i
-- 👀 I’m interested in python, c++
+- 👀 I’m interested in python, c++, nodejs
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on (?)
 - 📫 How to reach me https://mee-i.github.io
