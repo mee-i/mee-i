@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 📝 I regularly write articles on [ilhamhizam.rf.gd](ilhamhizam.rf.gd)
+- 📝 I regularly write articles on [ilhamhizam.rf.gd](http://ilhamhizam.rf.gd)
 
 - 📫 How to reach me **ilhamhizam9@gmail.com**
 
