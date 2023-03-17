@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mee-i&label=Profile%20views&color=16a218&style=flat" alt="mee-i" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS & C++**
 
 - 📝 I regularly write articles on [http://ilhamhizam.rf.gd](http://ilhamhizam.rf.gd)
 
