@@ -2,14 +2,7 @@
 <h3 align="center">105 32 108 105 107 101 32 99 111 100 105 110 103</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mee-i&label=Profile%20views&color=16a218&style=flat" alt="mee-i" /> </p>
-
-- 🌱 I’m currently learning **NodeJS & C++**
-
-- 📝 I regularly write articles on [http://ilhamhizam.rf.gd](http://ilhamhizam.rf.gd)
-
-- 📫 How to reach me **ilhamhizam9@gmail.com**
-
-- ⚡ Fun fact **everything is made of code**
+Visit my website [https://ancloud.my.id](https://ancloud.my.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
