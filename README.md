@@ -5,6 +5,6 @@
 | ------------- | ------------- |
 
 #### Top Repositories
-<a href="https://github.com/mee-i/whatsapp-bot-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mee-i&repo=whatsapp-bot-js&theme=vue" />
+<a href="https://github.com/mee-i/whatsapp-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mee-i&repo=whatsapp-bot&theme=vue" />
 </a>
