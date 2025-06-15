@@ -6,7 +6,7 @@ Check out my websites!
     🤖 <a href="https://bot.ancloud.my.id/">Whatsapp Bot</a>
   </li>
   <li>
-    ☁️ <a href="https://ancloud.my.id/">Ancloud</a>
+    ☁️ <a href="https://cludz.net/">Cludz</a>
   </li>
 </ul>
 <br>
