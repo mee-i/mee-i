@@ -8,6 +8,9 @@ Check out my websites!
   <li>
     ☁️ <a href="https://cludz.net/">Cludz</a>
   </li>
+  <li>
+    ☁️ <a href="https://mee-i.github.io/">Personal Website</a>
+  </li>
 </ul>
 <br>
 
