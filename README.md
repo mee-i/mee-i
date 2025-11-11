@@ -3,9 +3,6 @@
 Check out my websites! 
 <ul>
   <li>
-    🤖 <a href="https://bot.ancloud.my.id/">Whatsapp Bot</a>
-  </li>
-  <li>
     ☁️ <a href="https://cludz.net/">Cludz</a>
   </li>
   <li>
