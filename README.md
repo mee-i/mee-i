@@ -11,10 +11,3 @@ Check out my websites!
 </ul>
 <br>
 
-| <a href="https://github.com/mee-i"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mee-i&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Mee-I's github stats" /></a> | <a href="https://github.com/mee-i"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mee-i&layout=compact&theme=vue&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-<a href="https://github.com/mee-i/whatsapp-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mee-i&repo=whatsapp-bot&theme=vue" />
-</a>
